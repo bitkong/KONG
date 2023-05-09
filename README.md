@@ -1,3 +1,5 @@
+![Header](header.jpg)
+
 # BitKong Coin (KONG) Token 🔱
 
 BitKong Coin (KONG) is an innovative and decentralized token that brings the world of gaming and blockchain together. We aim to bridge the gap between gamers and the cryptocurrency community, creating an ecosystem that benefits both parties.
